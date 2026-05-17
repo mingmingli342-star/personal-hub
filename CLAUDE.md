@@ -5,7 +5,7 @@
 ## 启动方式
 
 ```bash
-cd e:/Trea-work/05-cc/personal-hub
+cd e:/Trea-work/05-cc/01-personal-hub
 npm run dev
 ```
 
